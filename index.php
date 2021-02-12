@@ -30,8 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Exercises - Gabriel Marquez</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.0/gsap.min.js"></script>
-    <link rel="stylesheet" href="./css/main.css">
+    <link rel="stylesheet" href="./main.css">
 </head>
 
 <body>
